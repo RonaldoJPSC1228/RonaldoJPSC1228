@@ -99,9 +99,9 @@
 
 <br clear="both">
 
+### 🐍
 <img src="https://raw.githubusercontent.com/RonaldoJPSC1228/RonaldoJPSC1228/output/snake.svg" alt="Snake animation" />
 
-### 🐍
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
