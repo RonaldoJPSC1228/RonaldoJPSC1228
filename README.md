@@ -47,7 +47,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="30" alt="angularjs logo"  />
+  <a href="https://https://angular.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="30" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nginx/009639" height="30" alt="nginx logo"  />
   <img width="12" />
