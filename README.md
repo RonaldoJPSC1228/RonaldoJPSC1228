@@ -1,9 +1,10 @@
 # Hi, there is a passionate frontend developer 👋
 🔭 I am currently working on learning more about native application development<br>🤝 I am currently working as a web developer<br>💬 You can communicate through this email ronnyjean28@hotmail.com<br>⚡ Fun fact, I am studying at the University of the Coast, studying 10 semester of Systems Engineer.
+<img align="right" height="155" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-MHQAurol1-M%2FV5vSYSWozbI%2FAAAAAAAAK9o%2FFTuG8p42QBUv_t_bgaokqfwiux3HtqGoQCLcB%2Fs1600%2Fgifs%252Banimados%252B1.gif&f=1&nofb=1&ipt=5e6f6fd7167b0c11d2b0704133562a7733122a088d37b59eaef407031c678bcb&ipo=images"  />
 
 ###
 
-<img align="right" height="155" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-MHQAurol1-M%2FV5vSYSWozbI%2FAAAAAAAAK9o%2FFTuG8p42QBUv_t_bgaokqfwiux3HtqGoQCLcB%2Fs1600%2Fgifs%252Banimados%252B1.gif&f=1&nofb=1&ipt=5e6f6fd7167b0c11d2b0704133562a7733122a088d37b59eaef407031c678bcb&ipo=images"  />
+###
 
 ###
 
