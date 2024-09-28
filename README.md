@@ -97,6 +97,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RonaldoJPSC1228&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=cobalt2&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/RonaldoJPSC1228/RonaldoJPSC1228/output/snake.svg" alt="Snake animation" />
+
+### 🐍
+
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
