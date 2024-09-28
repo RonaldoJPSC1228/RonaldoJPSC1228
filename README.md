@@ -1,11 +1,11 @@
+# Hi, there is a passionate frontend developer 👋 <br>
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <p>
-      # Hi, there is a passionate frontend developer 👋 <br>
       🔭 I am currently working on learning more about native application development<br>
       🤝 I am currently working as a web developer<br>
       💬 You can communicate through this email ronnyjean28@hotmail.com<br>
-      ⚡ Fun fact, I am studying at the University of the Coast, studying 10 semester of Systems Engineer.
+      ⚡ Fun fact, I am studying at the University CUC in Barranquilla/Colombia, in 10 semester of Systems Engineer.
     </p>
   </div>
   <div>
