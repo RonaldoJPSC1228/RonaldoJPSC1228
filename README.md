@@ -3,9 +3,9 @@
   <div style="flex: 1;">
     <p>
       🔭 I am currently working on learning more about native application development<br>
-      🤝 I am currently working as a web developer<br>
+      🤝 I am Systems Engineer currently working as a web developer<br>
       💬 You can communicate through this email ronnyjean28@hotmail.com<br>
-      ⚡ Fun fact, I am studying at the University CUC in Barranquilla/Colombia, in 10 semester of Systems Engineer.
+      ⚡ Fun fact, I really enjoy geeks somethings like animes, mangas, superheroes, etc.
     </p>
   </div>
 </div>
