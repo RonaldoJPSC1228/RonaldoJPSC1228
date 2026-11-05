@@ -1,4 +1,4 @@
-# Hi, there is a passionate frontend developer 👋 <br>
+# Hi, there is a passionate developer 👋 <br>
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <p>
